@@ -33,3 +33,9 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+Assets/Tilemap/Hexagonal/Sprites.meta
+Assets/Tilemap/Hexagonal/Sprites.meta
+Assets/Tilemap/Hexagonal/Tiles/Palette.meta
+Assets/Tilemap/Hexagonal/Tiles/Palette.meta
+*.meta
+Assets/Tilemap/Hexagonal/Sprites.meta
